@@ -1,0 +1,6 @@
+
+.menu{background-color: #ddd;}
+.menu ul{display: flex;}
+.menu ul li{list-style: none;padding: 10px 70px;}
+.menu ul li a{text-decoration: none;}
+.menu ul li:hover{background-color: #fff;}
